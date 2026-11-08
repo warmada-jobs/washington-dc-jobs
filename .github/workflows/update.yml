@@ -1,0 +1,28 @@
+name: Update list
+
+on:
+  schedule:
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch the list
+        run: curl --fail --silent --show-error --location https://warmada.com/lists/washington-dc.md --output README.md
+      - name: Commit if it changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "warmada-lists[bot]"
+          git config user.email "hello@warmada.com"
+          git add README.md
+          git commit -m "Update list $(date -u +%Y-%m-%d)"
+          git push
