@@ -1,16 +1,16 @@
 # Washington, DC Jobs
 
-Open roles in Washington, DC: 68 roles at 34 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=washington-dc).** Last updated 2026-11-08.
+Open roles in Washington, DC: 65 roles at 33 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=washington-dc).** Last updated 2026-11-09.
 
-All 68 are listed below. Browse the newest on [warmada.com/jobs/washington-dc](https://warmada.com/jobs/washington-dc?utm_source=github&utm_medium=list&utm_campaign=washington-dc).
+All 65 are listed below. Browse the newest on [warmada.com/jobs/washington-dc](https://warmada.com/jobs/washington-dc?utm_source=github&utm_medium=list&utm_campaign=washington-dc).
 
-**By role:** Software Engineering (6) · Hardware Engineering (2) · Product Management (1) · Design (1) · Marketing (1) · Sales (12) · Customer Success (1) · Operations (4) · Finance (1) · Legal & Compliance (9) · Other (30)
+**By role:** Software Engineering (5) · Hardware Engineering (2) · Product Management (1) · Design (1) · Marketing (1) · Sales (11) · Customer Success (1) · Operations (4) · Legal & Compliance (9) · Other (30)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Washington, DC. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (6)
+## Software Engineering (5)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -19,7 +19,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [norm.ai](https://warmada.com/companies/norm-ai?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | AI Security Engineer, Defensive Automation | Washington D.C. | Nov 2 | [Apply](https://jobs.ashbyhq.com/norm/f8363384-d2c6-41c9-870b-56f04387e930) · [Find the hiring manager](https://warmada.com/job/norm-ai-ai-security-engineer-defensive-automation-0d95a228-edcb-47e7-a8fd-ba225b91251f?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [MetroStar](https://warmada.com/companies/metrostar?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Sr. Systems Engineer II (6891) | Washington, DC | Oct 28 | [Apply](https://metrostar.com/job-post/?gh_jid=8044377003) · [Find the hiring manager](https://warmada.com/job/metrostar-sr-systems-engineer-ii-6891-6b8d431f-8e72-4c0a-98d2-f7a9e0f42c04?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [Palantir](https://warmada.com/companies/palantir?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Forward Deployed Software Engineer - Germany Forward Deployed | Washington, D.C. | Oct 28 | [Apply](https://jobs.lever.co/palantir/491a0133-b580-45c3-9fd4-2314faf82fb9) · [Find the hiring manager](https://warmada.com/job/palantir-forward-deployed-software-engineer-germany-forward-deployed-0c437d8e-8ec5-4b05-8472-509db794be53?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-| [MetroStar](https://warmada.com/companies/metrostar?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Sr. DevSecOps Engineer I (6889) | Washington, DC | Oct 25 | [Apply](https://metrostar.com/job-post/?gh_jid=8042813003) · [Find the hiring manager](https://warmada.com/job/metrostar-sr-devsecops-engineer-i-6889-0c6e27f4-6882-4d7a-81d8-72aa57a9d28d?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 
 ## Hardware Engineering (2)
 
@@ -46,7 +45,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | LIFT | Communications Intern (Internal LIFT Applicants Only) | Washington, DC | Oct 30 | [Apply](https://job-boards.greenhouse.io/lift/jobs/8903940002) · [Find the hiring manager](https://warmada.com/job/lift-communications-intern-internal-lift-applicants-only-c32f90da-3132-4662-ab42-b6925b53fc97?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 
-## Sales (12)
+## Sales (11)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -61,7 +60,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Elastic](https://warmada.com/companies/elastic?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Federal Account Executive - USPS | Washington, DC, United States | Nov 2 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8301469&gh_jid=8301469) · [Find the hiring manager](https://warmada.com/job/elastic-federal-account-executive-usps-ca383ef6-73cc-40db-8e28-f0032fb02022?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [OpenAI](https://warmada.com/companies/openai?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Account Director, Federal Partnerships (Defense) | Washington, DC | Oct 29 | [Apply](https://jobs.ashbyhq.com/openai/88d4dce1-a3ef-495f-b711-54988812336b) · [Find the hiring manager](https://warmada.com/job/openai-account-director-federal-partnerships-defense-8ce6bd8b-0ad4-431c-ab32-16bff79ccfb3?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [horizon3.ai](https://warmada.com/companies/horizon3-ai?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Senior Sales Development Representative, Federal | Washington, DC | Oct 28 | [Apply](https://jobs.ashbyhq.com/horizon3ai/7624f919-b0cd-40c7-9dc2-82aeb83d74c9) · [Find the hiring manager](https://warmada.com/job/horizon3-ai-senior-sales-development-representative-federal-86731ce9-7473-440d-a250-d7831553c76f?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-| [Socure](https://warmada.com/companies/socure?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Platform Solution Consultant, Public Sector | Hub - Washington DC | Oct 26 | [Apply](https://jobs.ashbyhq.com/socure/b6999a41-7e41-4aaa-b954-fac98ed41f33) · [Find the hiring manager](https://warmada.com/job/socure-platform-solution-consultant-public-sector-b868a2d0-1d41-4678-8c7e-1416e58863b0?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 
 ## Customer Success (1)
 
@@ -77,12 +75,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [MetroStar](https://warmada.com/companies/metrostar?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Sr. Program Operations Manager III (6895) | Washington, DC | Nov 2 | [Apply](https://metrostar.com/job-post/?gh_jid=8165012003) · [Find the hiring manager](https://warmada.com/job/metrostar-sr-program-operations-manager-iii-6895-ddcffdfb-6cb0-4475-802c-0ec8f67218ae?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [Rocket Money](https://warmada.com/companies/rocket-money?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Creative Project Manager | New York City, NY, Detroit, MI, Washington D.C., and Remote US | Oct 28 | [Apply](https://job-boards.greenhouse.io/truebill/jobs/8048313003) · [Find the hiring manager](https://warmada.com/job/rocket-money-creative-project-manager-869a1eba-0c2f-4048-8f6e-3b1c4c82bc33?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [Ursa Major](https://warmada.com/companies/ursa-major?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Senior Business Operations Analyst | Washington D.C. | Oct 26 | [Apply](https://ursamajor.com/careers/?gh_jid=4747866005) · [Find the hiring manager](https://warmada.com/job/ursa-major-senior-business-operations-analyst-babc83ce-6479-4cdd-b258-5d5f0b30754e?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-
-## Finance (1)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
-| [CSCI Consulting](https://warmada.com/companies/csci-consulting?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Federal Financial Reporting Specialist | Washington, DC | Oct 26 | [Apply](https://job-boards.greenhouse.io/csciconsulting/jobs/5463673008) · [Find the hiring manager](https://warmada.com/job/csci-consulting-federal-financial-reporting-specialist-23a1a9b1-f1db-4776-88ed-1f9794a4c1f0?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 
 ## Legal & Compliance (9)
 
