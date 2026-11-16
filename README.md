@@ -1,16 +1,16 @@
 # Washington, DC Jobs
 
-Open roles in Washington, DC: 72 roles at 33 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=washington-dc).** Last updated 2026-11-15.
+Open roles in Washington, DC: 68 roles at 31 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=washington-dc).** Last updated 2026-11-16.
 
-All 72 are listed below. Browse the newest on [warmada.com/jobs/washington-dc](https://warmada.com/jobs/washington-dc?utm_source=github&utm_medium=list&utm_campaign=washington-dc).
+All 68 are listed below. Browse the newest on [warmada.com/jobs/washington-dc](https://warmada.com/jobs/washington-dc?utm_source=github&utm_medium=list&utm_campaign=washington-dc).
 
-**By role:** Software Engineering (7) · Product Management (2) · Sales (18) · Customer Success (1) · Operations (2) · Finance (1) · HR & Recruiting (1) · Legal & Compliance (7) · Other (33)
+**By role:** Software Engineering (6) · Product Management (2) · Sales (17) · Customer Success (1) · Operations (2) · Finance (1) · HR & Recruiting (1) · Legal & Compliance (7) · Other (31)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Washington, DC. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (7)
+## Software Engineering (6)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -20,7 +20,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [MetroStar](https://warmada.com/companies/metrostar?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Sr. Telecommunications Design Engineer III (6912) | Washington, DC | Nov 10 | [Apply](https://metrostar.com/job-post/?gh_jid=8200415003) · [Find the hiring manager](https://warmada.com/job/metrostar-sr-telecommunications-design-engineer-iii-6912-aff1e300-87e7-473f-834d-178a52baa865?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [MetroStar](https://warmada.com/companies/metrostar?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Sr. Platform Engineer III (6888) | Washington, DC | Nov 9 | [Apply](https://metrostar.com/job-post/?gh_jid=8198902003) · [Find the hiring manager](https://warmada.com/job/metrostar-sr-platform-engineer-iii-6888-bc42e0b2-3382-48af-960b-e12176ade167?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Sr. Forward Deployed Engineer - Public Sector | Alabama; Berkeley, California; Connecticut; Kansas City, Missouri; Maryland; New Hampshire; New Jersey; North Carolina; Remote - California; Remote - Colorado; Remote - Illinois; Remote - Massachusetts; Remote - Missouri; Remote - New York; Remote - Pennsylvania; Remote - Virginia; Remote - Washington; Remote - Washington D.C.; Rhode Island; San Diego, California; South Carolina | Nov 5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8823788002) · [Find the hiring manager](https://warmada.com/job/databricks-sr-forward-deployed-engineer-public-sector-9ef012c2-7fa7-4dc4-b201-a43dfc25a65d?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-| [Norm](https://warmada.com/companies/norm?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | AI Security Engineer, Defensive Automation | Washington D.C. | Nov 2 | [Apply](https://jobs.ashbyhq.com/norm/f8363384-d2c6-41c9-870b-56f04387e930) · [Find the hiring manager](https://warmada.com/job/norm-ai-security-engineer-defensive-automation-0d95a228-edcb-47e7-a8fd-ba225b91251f?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 
 ## Product Management (2)
 
@@ -29,7 +28,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Yext](https://warmada.com/companies/yext?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Senior Director, Product Management | Washington, D.C. | Nov 10 | [Apply](https://job-boards.greenhouse.io/yext/jobs/8335083) · [Find the hiring manager](https://warmada.com/job/yext-senior-director-product-management-d6634627-9759-4108-b523-fa63d3220704?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [Okta](https://warmada.com/companies/okta?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Senior Product Manager, AI Products (Auth0) | Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC | Nov 4 | [Apply](https://www.okta.com/company/careers/opportunity/8351434?gh_jid=8351434) · [Find the hiring manager](https://warmada.com/job/okta-senior-product-manager-ai-products-auth0-8ba2f4d0-0fc9-49a7-b176-2676d4a3fa24?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 
-## Sales (18)
+## Sales (17)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -50,7 +49,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Elastic](https://warmada.com/companies/elastic?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Partner Solutions Architect - Public Sector | Washington, DC, United States | Nov 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8302518&gh_jid=8302518) · [Find the hiring manager](https://warmada.com/job/elastic-partner-solutions-architect-public-sector-98e58bb1-0cfc-4de0-9393-923660aae619?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [Horizon3](https://warmada.com/companies/horizon3?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Director, Federal Sales, Civilian | Washington, DC | Nov 3 | [Apply](https://jobs.ashbyhq.com/horizon3ai/fc1f499d-ef43-4f1e-a52e-d2cfd32f3822) · [Find the hiring manager](https://warmada.com/job/horizon3-director-federal-sales-civilian-8d119c5c-fbf7-40a6-91e4-6757649793bd?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | AutogenAI | Account Executive - GovCon (Washington DC / Beltway) | Washington DC | Nov 3 | [Apply](https://job-boards.greenhouse.io/autogenai/jobs/5471001008) · [Find the hiring manager](https://warmada.com/job/autogenai-account-executive-govcon-washington-dc-beltway-d57782a1-9b2e-4441-bbd9-aee65e40c413?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-| [Elastic](https://warmada.com/companies/elastic?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Federal Account Executive - USPS | Washington, DC, United States | Nov 2 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8301469&gh_jid=8301469) · [Find the hiring manager](https://warmada.com/job/elastic-federal-account-executive-usps-ca383ef6-73cc-40db-8e28-f0032fb02022?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 
 ## Customer Success (1)
 
@@ -89,7 +87,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Waymo](https://warmada.com/companies/waymo?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Senior Counsel, Trade | Mountain View, CA, USA; Washington D.C., USA | Nov 5 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8325820) · [Find the hiring manager](https://warmada.com/job/waymo-senior-counsel-trade-c05cbfc0-7955-4dfc-9322-7dfc991c784f?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | Emerald AI | Senior Corporate Counsel | Washington D.C. | Nov 3 | [Apply](https://jobs.ashbyhq.com/emerald-ai/311513a1-f3df-440d-ae5b-ed1c664e2286) · [Find the hiring manager](https://warmada.com/job/emerald-ai-senior-corporate-counsel-c03c03e4-76a3-4393-9a3a-489e114ef37e?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 
-## Other (33)
+## Other (31)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -124,5 +122,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Comstock](https://warmada.com/companies/comstock?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Parking Garage Attendant Mon-Fri 7am-3pm | Washington, DC | Nov 3 | [Apply](https://job-boards.greenhouse.io/comstock/jobs/4478552009) · [Find the hiring manager](https://warmada.com/job/comstock-parking-garage-attendant-mon-fri-7am-3pm-48e91c9b-91da-4e26-9726-834cde8b96ed?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [Onebrief](https://warmada.com/companies/onebrief?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Senior Manager, Mission Success, NCR | Washington, D.C. | Nov 3 | [Apply](https://jobs.ashbyhq.com/onebrief/ecb66fb8-7dfd-4f91-9e9e-b51a467c6200) · [Find the hiring manager](https://warmada.com/job/onebrief-senior-manager-mission-success-ncr-30c24c81-fef9-4623-92ff-f862b21697ad?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [Yext](https://warmada.com/companies/yext?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Platform Consultant | Washington, D.C. | Nov 3 | [Apply](https://job-boards.greenhouse.io/yext/jobs/8264517) · [Find the hiring manager](https://warmada.com/job/yext-platform-consultant-453c8878-44cc-4860-b6d6-c3e0e116ddda?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-| [Elevenlabs](https://warmada.com/companies/elevenlabs?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Head of Public Sector, AMER | Washington, D.C. | Nov 2 | [Apply](https://jobs.ashbyhq.com/ElevenLabs/b43e388f-f204-41c5-a2bc-ee3bc1281e39) · [Find the hiring manager](https://warmada.com/job/elevenlabs-head-of-public-sector-amer-aca6ef09-2260-4c6c-86b1-8e6dafd75c45?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-| [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | AI Outcomes Manager, Strategic Tech (Spanish-speaking) | San Francisco, CA \| Seattle, WA \| New York City, NY \| Washington, DC | Nov 2 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5465639008) · [Find the hiring manager](https://warmada.com/job/anthropic-ai-outcomes-manager-strategic-tech-spanish-speaking-03bec5af-0ae2-41af-a9d7-3557b3b61f07?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
