@@ -1,6 +1,6 @@
 # Washington, DC Jobs
 
-Open roles in Washington, DC: 72 roles at 38 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=washington-dc).** Last updated 2026-11-21.
+Open roles in Washington, DC: 72 roles at 38 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=washington-dc).** Last updated 2026-11-22.
 
 All 72 are listed below. Browse the newest on [warmada.com/jobs/washington-dc](https://warmada.com/jobs/washington-dc?utm_source=github&utm_medium=list&utm_campaign=washington-dc).
 
