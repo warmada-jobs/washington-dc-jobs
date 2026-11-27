@@ -1,16 +1,16 @@
 # Washington, DC Jobs
 
-Open roles in Washington, DC: 60 roles at 32 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=washington-dc).** Last updated 2026-11-26.
+Open roles in Washington, DC: 52 roles at 29 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=washington-dc).** Last updated 2026-11-27.
 
-All 60 are listed below. Browse the newest on [warmada.com/jobs/washington-dc](https://warmada.com/jobs/washington-dc?utm_source=github&utm_medium=list&utm_campaign=washington-dc).
+All 52 are listed below. Browse the newest on [warmada.com/jobs/washington-dc](https://warmada.com/jobs/washington-dc?utm_source=github&utm_medium=list&utm_campaign=washington-dc).
 
-**By role:** Software Engineering (10) · Marketing (1) · Sales (11) · Operations (2) · Finance (1) · HR & Recruiting (1) · Legal & Compliance (3) · Other (31)
+**By role:** Software Engineering (9) · Sales (7) · Operations (2) · HR & Recruiting (1) · Legal & Compliance (2) · Other (31)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Washington, DC. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (10)
+## Software Engineering (9)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -23,15 +23,8 @@ A bad listing? Email hello@warmada.com with the link.
 | [Okta](https://warmada.com/companies/okta?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Staff Software Engineer - Okta Identity Governance | Bellevue, WA, United States; New York, New York, United States; Washington D.C. | Nov 17 | [Apply](https://www.okta.com/company/careers/opportunity/8396676?gh_jid=8396676) · [Find the hiring manager](https://warmada.com/job/okta-staff-software-engineer-okta-identity-governance-5c50d206-4b1e-4109-b761-cc74bd847761?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [Helsing](https://warmada.com/companies/helsing?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Systems Engineer | Washington, DC | Nov 17 | [Apply](https://helsing.ai/jobs/5028875101?gh_jid=5028875101) · [Find the hiring manager](https://warmada.com/job/helsing-systems-engineer-56b133a2-51de-41cd-b3cb-52f459049f97?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [Coupang](https://warmada.com/companies/coupang?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Staff IT Operation Engineer | Washington DC, USA | Nov 16 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8360398) · [Find the hiring manager](https://warmada.com/job/coupang-staff-it-operation-engineer-68e032d7-e0e7-41e3-aae7-eb68bbd3c3f6?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-| Neo4j | Sr. Consulting Engineer (Federal - TS/SCI and FSP required) | Washington, D.C. | Nov 13 | [Apply](https://boards.greenhouse.io/neo4j/jobs/4729436006?gh_jid=4729436006) · [Find the hiring manager](https://warmada.com/job/neo4j-sr-consulting-engineer-federal-ts-sci-and-fsp-required-f23a3e76-c05e-4fdc-b0a4-9868c68ce23c?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 
-## Marketing (1)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
-| [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Startup Lifecycle Marketing Lead | Atlanta; Austin; Boston; Chicago; Denver; Miami; New York City; Philadelphia; Raleigh; San Francisco; Tampa; Washington DC | Nov 12 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8367103) · [Find the hiring manager](https://warmada.com/job/mongodb-startup-lifecycle-marketing-lead-2a91d3d7-390e-40a0-a930-430d362114f1?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-
-## Sales (11)
+## Sales (7)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -42,10 +35,6 @@ A bad listing? Email hello@warmada.com with the link.
 | Starburst | Sales Development Representative - Federal | Washington DC, Boston, MA | Nov 18 | [Apply](https://job-boards.greenhouse.io/starburst/jobs/5485697008) · [Find the hiring manager](https://warmada.com/job/starburst-sales-development-representative-federal-cb3163df-bbcc-4862-888b-6bcba9f0e8a5?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Enterprise Hunter Account Executive, FSI/ DIB | Remote - Washington D.C. | Nov 18 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8870726002) · [Find the hiring manager](https://warmada.com/job/databricks-enterprise-hunter-account-executive-fsi-dib-abf280ef-cd0e-4dce-9cd5-432a001dcb7c?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [Talkiatry](https://warmada.com/companies/talkiatry?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Manager, Provider Partnerships - Washington, DC | Washington, D.C. | Nov 17 | [Apply](https://jobs.ashbyhq.com/talkiatry/acde8bde-c816-4946-b7a4-98779ae92ed4) · [Find the hiring manager](https://warmada.com/job/talkiatry-manager-provider-partnerships-washington-dc-d43b82ba-9c24-45b6-9536-cc55d4de789e?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-| [Okta](https://warmada.com/companies/okta?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Senior SMB Customer Account Executive (East) | Chicago, Illinois, United States; Washington D.C. | Nov 13 | [Apply](https://www.okta.com/company/careers/opportunity/8385863?gh_jid=8385863) · [Find the hiring manager](https://warmada.com/job/okta-senior-smb-customer-account-executive-east-5be86cdf-3ba1-4a9a-9ffd-fd2654b3167b?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-| [Scale AI](https://warmada.com/companies/scale-ai?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Account Executive, Air Force | Colorado Springs, CO; Dayton, OH; Tampa, FL; Washington, DC | Nov 13 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4753839005) · [Find the hiring manager](https://warmada.com/job/scale-ai-account-executive-air-force-5752c9cd-0c02-4fe6-afbb-cd8e3b58952d?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-| [Scale AI](https://warmada.com/companies/scale-ai?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Account Executive, Navy | San Diego, CA; Washington, DC | Nov 12 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4753798005) · [Find the hiring manager](https://warmada.com/job/scale-ai-account-executive-navy-a7a7c576-3eae-4975-a421-9f2326908bc6?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-| [OpenAI](https://warmada.com/companies/openai?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Federal Account Director, Intelligence Community | Washington, DC | Nov 12 | [Apply](https://jobs.ashbyhq.com/openai/fd5522f1-8e39-4d60-8b8a-34fae61104cb) · [Find the hiring manager](https://warmada.com/job/openai-federal-account-director-intelligence-community-927d5677-70cd-454e-9b49-50e67e2a283f?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 
 ## Operations (2)
 
@@ -54,25 +43,18 @@ A bad listing? Email hello@warmada.com with the link.
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Manager, Compliance &amp; Regulatory Operations | San Francisco, CA \| New York City, NY \| Washington, DC | Nov 24 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5489900008) · [Find the hiring manager](https://warmada.com/job/anthropic-manager-compliance-and-regulatory-operations-636ac7b2-a62f-414a-b890-0c657da4af79?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | GTM Strategy &amp; Operations Business Partner | San Francisco, CA \| New York City, NY \| Washington, DC | Nov 20 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5485591008) · [Find the hiring manager](https://warmada.com/job/anthropic-gtm-strategy-and-operations-business-partner-15845c4a-9c58-4cbc-af03-bafc6d519b30?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 
-## Finance (1)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
-| [Amca](https://warmada.com/companies/amca?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Senior Analyst, Strategy &amp; Finance | Washington, D.C. | Nov 13 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4487618009) · [Find the hiring manager](https://warmada.com/job/amca-senior-analyst-strategy-and-finance-ac2abc6f-a003-4ba3-8503-4dd56f940c06?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-
 ## HR & Recruiting (1)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Helsing](https://warmada.com/companies/helsing?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | People Operations Associate (Onboarding and Data) | Washington, DC | Nov 23 | [Apply](https://helsing.ai/jobs/5043812101?gh_jid=5043812101) · [Find the hiring manager](https://warmada.com/job/helsing-people-operations-associate-onboarding-and-data-df6f9f0c-c712-42f9-b1e8-a8ae90e1821a?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 
-## Legal & Compliance (3)
+## Legal & Compliance (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Robinhood](https://warmada.com/companies/robinhood?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Director and Associate General Counsel, Banking and Credit Cards | Menlo Park, CA; New York, NY; Washington, DC | Nov 14 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8379461?t=gh_src=&gh_jid=8379461) · [Find the hiring manager](https://warmada.com/job/robinhood-director-and-associate-general-counsel-banking-and-credit-cards-8788bb1f-575a-4912-bbcb-f1945488e073?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 | [Hadrian Automation](https://warmada.com/companies/hadrian-automation?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Contracts Manager | Washington, DC | Nov 13 | [Apply](https://jobs.ashbyhq.com/hadrian-automation/d98ff7e9-166c-44d3-addb-e4ea5f19c060) · [Find the hiring manager](https://warmada.com/job/hadrian-automation-contracts-manager-b0e26567-ff40-4836-9aec-4dbbee4fcc8a?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
-| [Robinhood](https://warmada.com/companies/robinhood?utm_source=github&utm_medium=list&utm_campaign=washington-dc) | Assistant General Counsel, Derivatives | Menlo Park, CA; New York, NY; Washington, DC | Nov 12 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7997547?t=gh_src=&gh_jid=7997547) · [Find the hiring manager](https://warmada.com/job/robinhood-assistant-general-counsel-derivatives-cd938091-b361-439c-aafc-62d829d9ff7f?utm_source=github&utm_medium=list&utm_campaign=washington-dc) |
 
 ## Other (31)
 
